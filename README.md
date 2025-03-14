@@ -1,75 +1,17 @@
-# Nuxt Minimal Starter
+# Frank and Will Portfolio
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Hey everyone! We have worked with so many amazing people over the years and this site, we hope, captures these wonderful moments!
 
-## Setup
+## Overview
 
-Make sure to install dependencies:
+This site is designed to highlight our work, creative projects, and experiences. It serves as a digital resume and a creative outlet, offering a glimpse into the background and capabilities of Frank and Will.
 
-```bash
-# npm
-npm install
+## Features
 
-# pnpm
-pnpm install
+- **Portfolio Gallery:** --
+- **About Us:** --
+- **Contact:** --
 
-# yarn
-yarn install
+## Acknowledgements
 
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+info to come
