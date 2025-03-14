@@ -10,6 +10,7 @@ export default defineNuxtConfig({
     '@nuxt/eslint',
     '@nuxt/content',
     '@nuxt/scripts',
-    '@nuxt/ui'
-  ]
+    '@nuxt/ui-pro'
+  ],
+  css: ['~/assets/css/main.css']
 })
